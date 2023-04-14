@@ -1,0 +1,172 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    line-height: 1;
+    font-size: 7rem;
+    margin: 200px auto 0;
+    color: #19A7CE;
+    font-family: 'Sacramento', cursive;
+}
+
+p {
+    line-height: 2;
+}
+
+h2  {
+    font-family: 'Montserrat', sans-serif;
+    color: #146C94;
+    font-weight: normal;
+    padding-bottom: 10px;
+    font-size: 3.2rem;
+    line-height: 2;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #146C94;
+    font-size: 1.5rem;
+    line-height: 2;
+}
+
+p {
+    font-size: 1.5rem;
+}
+ 
+a {
+    margin: 10px 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.4rem;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+hr {
+    width: 10%;
+    margin: 10px auto;
+    border: none;
+    border-top-style: dotted;
+    border-width: 20px;
+    color: #ccc;
+    margin: 100px auto;
+    clear: right;
+}
+
+.top-section p {
+    font-size: 2rem;
+    color: #19A7CE;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top-section {
+    box-sizing: border-box;
+    background: #F6F1F1;
+    padding: 20px;
+    position: relative;
+    height: 100vh;
+}
+.middle-section {
+    margin: 100px 0;
+}
+
+.bottom-section {
+    background: #19A7CE;
+    padding: 70px;
+}
+
+.footer-link {
+    color: #0f6993;
+    text-decoration: none;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 15%;
+    top: 100px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 15%;
+    top: 500px;
+}
+
+.intro {
+    width: 28%;
+    margin: 0 auto;
+}
+.copyright {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.95rem;
+    margin: 30px auto;
+}
+
+.skills {
+    display: flex;
+    flex-direction: column;
+}
+
+.skill-img {
+    width: 25%;
+    margin-right: 30px;
+    float: left;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 50px auto;
+    text-align: left;
+}
+
+.skill-text {
+    margin-top: 50px;
+}
+
+.js-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.contact-me {
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-msg {
+    width: 40%;
+    margin: 10px auto;
+}
+
+.img {
+    width: 50%;
+}
+
+.profile-pic {
+    width: 12%;
+}
+
+.btn {
+    background: #19A7CE;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 22px;
+    padding: 12px 25px;
+    text-decoration: none;
+    width: 12%;
+    margin: 10px auto;
+}
+
+.btn:hover {
+    background: #308da6;
+}
