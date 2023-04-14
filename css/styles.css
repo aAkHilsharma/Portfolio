@@ -9,7 +9,7 @@ body {
 
 h1 {
     line-height: 1;
-    font-size: 7rem;
+    font-size: 6.5rem;
     margin: 200px auto 0;
     color: #19A7CE;
     font-family: 'Sacramento', cursive;
@@ -17,7 +17,8 @@ h1 {
 
 p {
     line-height: 2;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
+    color: #1a1818;
 }
 
 h2  {
@@ -25,7 +26,7 @@ h2  {
     color: #146C94;
     font-weight: normal;
     padding-bottom: 10px;
-    font-size: 3.2rem;
+    font-size: 2.8rem;
     line-height: 2;
 }
 
@@ -73,7 +74,7 @@ hr {
 .nav-item a {
     text-decoration: none;
     color:#19A7CE;
-    font-size: 2.2rem;
+    font-size: 2rem;
 }
 
 .nav-item a:hover {
@@ -168,7 +169,7 @@ hr {
 }
 
 .img {
-    width: 50%;
+    width: 35%;
 }
 
 .profile-pic {
