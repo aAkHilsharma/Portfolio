@@ -17,6 +17,7 @@ h1 {
 
 p {
     line-height: 2;
+    font-size: 1.5rem;
 }
 
 h2  {
@@ -33,10 +34,6 @@ h3 {
     color: #146C94;
     font-size: 1.5rem;
     line-height: 2;
-}
-
-p {
-    font-size: 1.5rem;
 }
  
 a {
