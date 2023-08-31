@@ -69,7 +69,6 @@ function Skills() {
               </Carousel>
             </div>
           </Col>
-          <Col></Col>
         </Row>
       </Container>
       <img className="background-image-left" src={colorSharp} />
